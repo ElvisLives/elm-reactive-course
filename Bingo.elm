@@ -3,4 +3,4 @@ module Bingo where
 import Html
 
 main =
-  Html.text "Hello, Elm!"
+  Html.text "Hello, ELMO!"
